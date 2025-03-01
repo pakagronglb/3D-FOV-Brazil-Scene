@@ -25,7 +25,7 @@ An immersive 3D scene showcasing Brazil's landscape using React Three Fiber and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/3d-fov-brazil-scene.git
+git clone https://github.com/pakagronglb/3d-fov-brazil-scene.git
 
 # Navigate to project directory
 cd 3d-fov-brazil-scene
